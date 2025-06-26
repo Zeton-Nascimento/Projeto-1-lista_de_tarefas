@@ -1,4 +1,4 @@
-# Projeto-1-lista_de_tarefas
+# Projeto-1:to-do list
 
 > Um gerenciador simples de tarefas desenvolvido com **React** e **Redux Toolkit**, proporcionando uma experiência intuitiva e responsiva.
 
